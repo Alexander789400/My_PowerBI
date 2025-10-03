@@ -13,7 +13,7 @@ Geographical and Channel Performance:
 North America Focus: The sales data by Country and Segment visualization suggests that North America, specifically Atlantis, is a key region, with sales distributed across various channels including Channel Partners, Enterprise, Government, and Midmarket.
 # Summary of Key Findings:
 The Government segment is the primary driver of both gross sales and profit, despite also incurring the highest COGS and discounts. The Enterprise and Small Business segments are the next most significant contributors to the financial performance. Geographically, North America appears to be a crucial market. Further investigation into the factors driving the Government segment's profitability and the potential for growth in other segments (Midmarket and Channel Partners) would be beneficial.
-# Analysis Report: Financial Data - Part 2
+# Analysis Report: Financial Dataset - Part 2
 # 1. Product Performance Overview:
 Gross Sales by Discount Band: The "High" discount band generates the most significant gross sales (4,26,89313.00), followed by "Medium" (4,17,82,977.00) and "Low" (3,55,15,454.50). The "None" discount band has the lowest gross sales (79,43,654.00). This suggests that higher discounts correlate with higher gross sales volumes, potentially indicating a strategy of using discounts to drive sales.
 Top Performing Products (Gross Sales): Amarilla leads in "Sum of Gross Sales" by product (1,90,37,279.50), followed by Montana (1,65,49,834.50) and Carretera (1,49,37,520.50). VTT and Paseo also contribute significantly.
