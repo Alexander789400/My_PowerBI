@@ -1,9 +1,9 @@
 # My_PowerBI
-# Finanacial Dataset - Analysis Report
+# Finanacial Dataset 
 [My_PowerBI_file](Power_BI_Project.pbix)
 # Analysis Report: Financial Dataset - Part 1
 Overall Sales & Profit Performance by Segment:
-Gross Sales Domination: The Government segment significantly leads in Sum of Gross Sales, followed by Enterprise and Small Business.
+##Gross Sales Domination: The Government segment significantly leads in Sum of Gross Sales, followed by Enterprise and Small Business.
 Profit Drivers: While Government and Enterprise are strong in gross sales, the Government segment also holds the largest share (62.51%) of the total profit, highlighting its profitability efficiency.
 Sales Distribution: Total sales are unevenly distributed, with Government (44.22%) and Enterprise (35.74%) accounting for the majority, while Midmarket and Channel Partners have smaller contributions.
 Cost of Goods Sold (COGS) and Discounts by Segment:
