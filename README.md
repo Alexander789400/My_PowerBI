@@ -2,6 +2,70 @@
 # Finanacial Dataset 
 [My_PowerBI_file](Power_BI_Project.pbix)
 # Analysis Report: Financial Dataset - Part 1
+# KPI Overview and Insights :
+
+Total Sales – 127.93M
+
+The total sales value of $127.93 million reflects strong market performance across multiple countries and segments.
+
+This high sales volume indicates a healthy demand and effective sales strategy across the organization’s product lines.
+
+Total Profit – 16.89M
+
+The company generated a net profit of $16.89 million, which represents a positive margin over total sales.
+
+While the profit figure is solid, the margin compared to total sales suggests there may be opportunities to optimize costs and improve profitability.
+
+Total Cost of Goods Sold (COGS) – 101.83M
+
+The COGS accounts for nearly 80% of total sales, showing that production and distribution expenses are significant.
+
+Strategies to reduce production or supply chain costs could lead to improved profit margins.
+
+Total Discount – 9.21M
+
+Discounts totaling $9.21 million indicate a strong emphasis on promotional activities or price incentives.
+
+While effective in driving sales, excessive discounts could be affecting profitability and should be monitored carefully.
+
+Total Manufacturing Price – 68K
+
+The manufacturing price of $68K seems relatively low compared to total COGS, which suggests that other operational costs (like logistics or materials) contribute heavily to overall expenses.
+
+Streamlining manufacturing processes could yield further cost efficiency.
+
+Total Units Sold – 1.13M
+
+A total of 1.13 million units sold indicates strong product movement in the market.
+
+This reinforces the high sales figure and shows solid product demand across regions.
+
+Filter Insights
+
+The dashboard includes filters for:
+
+Country: Canada, France, Germany, Mexico, and the USA — enabling geographic performance comparison.
+
+Month Name: Allows monthly trend analysis to identify seasonal peaks or dips.
+
+Segment: Includes Government, Enterprise, Small Business, Midmarket, and Channel Partners for targeted business insights.
+
+Product: Filters by Amarilla, Carretera, Montana, Paseo, Velo, and VTT to analyze product-level performance.
+
+These filters enhance interactivity, allowing users to identify specific drivers behind the key metrics and tailor strategic decisions accordingly.
+
+Conclusion
+
+The KPI analysis highlights a financially strong performance with robust sales and unit movement across multiple markets. However, the high cost of goods sold and discounts are reducing overall profitability.
+To improve margins, the company should:
+
+Focus on cost optimization in production and supply chain.
+
+Review discount strategies to balance between market competitiveness and profit preservation.
+
+Continue leveraging data-driven insights from Power BI for more precise business planning.
+
+Overall, the metrics show that the organization is performing well in terms of revenue and sales volume, with clear opportunities for efficiency and profitability enhancement.
 # 1.Overall Sales & Profit Performance by Segment:
 Gross Sales Domination: The Government segment significantly leads in Sum of Gross Sales, followed by Enterprise and Small Business.
 Profit Drivers: While Government and Enterprise are strong in gross sales, the Government segment also holds the largest share (62.51%) of the total profit, highlighting its profitability efficiency.
